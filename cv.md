@@ -20,3 +20,20 @@ After I finish the RS school course, I plan to apply to EPAM.
 * Digital Marketing
 
 ---
+# Portfolio (webpages)
+* https://sherzodbekyuldashev95.github.io/3-column-preview-card/
+* https://sherzodbekyuldashev95.github.io/four-card-feature-section/
+* https://sherzodbekyuldashev95.github.io/order-card-summary/
+* https://sherzodbekyuldashev95.github.io/excursion/
+
+---
+## Experience
+
+| Period | Position | Company |
+| ------------ | ------------ | -------- |
+| 17.Feb.2022 - to-date | Digital Marketing Manager | Mosaic Financial |
+| 1.Oct.2021 - 16.Feb.2022| Social Media Marketing | Self-employed |
+| 08.Feb.2021 - 31.Sep.2021 | Digital Marketing Manager | Vantage Focus |
+| 04.April.2019 - 05.Feb.2021 | Senior Specialist of Business Development and PR Department| Central Securities Depository |
+
+---
