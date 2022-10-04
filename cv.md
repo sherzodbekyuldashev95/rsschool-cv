@@ -51,3 +51,9 @@ Expiration date: October 2023
 | 8.5 | 8.0 | 6.0 |6.5|
   
 ----
+
+### Additional Information
+I like:
+* Running. Last year I participated in Samarkand Half Marathon with 10 km run.
+* Reading books. Currently I am reading Sapiens: A brief history of humankind.
+* Nature. It helps me to become more conscious.
