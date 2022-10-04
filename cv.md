@@ -40,3 +40,9 @@ After I finish the RS school course, I plan to apply to EPAM.
 | 04.April.2019 - 05.Feb.2021 | Senior Specialist of Business Development and PR Department| Central Securities Depository |
 
 ---
+
+## Education
+* B.Sc.in Economics and Management, 2019.
+*Tashkent University of Information Technologies* 
+
+---
