@@ -46,3 +46,12 @@ After I finish the RS school course, I plan to apply to EPAM.
 *Tashkent University of Information Technologies* 
 
 ---
+
+## English language 
+My IELTS score: 7.5 
+Expiration date: October 2023
+| Listening | Reading | Writing | Speaking |
+| ------------ | ------------ | -------- | ------|
+| 8.5 | 8.0 | 6.0 |6.5|
+  
+----
