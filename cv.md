@@ -37,3 +37,17 @@ After I finish the RS school course, I plan to apply to EPAM.
 | 04.April.2019 - 05.Feb.2021 | Senior Specialist of Business Development and PR Department| Central Securities Depository |
 
 ---
+
+## Education
+* B.Sc.in Economics and Management, 2019.
+*Tashkent University of Information Technologies* 
+---
+
+## English language 
+My IELTS score: 7.5 
+Expiration date: October 2023
+| Listening | Reading | Writing | Speaking |
+| ------------ | ------------ | -------- | ------|
+| 8.5 | 8.0 | 6.0 |6.5|
+  
+----
