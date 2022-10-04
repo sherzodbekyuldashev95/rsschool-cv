@@ -12,3 +12,12 @@ I want to ==create value==. For me creating value is to build convenient, sustai
 After I finish the RS school course, I plan to apply to EPAM.
 
 ---
+
+## Skills
+* CSS 
+* HTML
+* Command Line
+* Git/GitHub
+* Digital Marketing
+
+---
