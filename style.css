@@ -5,11 +5,13 @@
 html{
     font-size: 20px;
     font-family: 'IBM Plex Sans', sans-serif;
+
 }
 
 .container {
     width: 1000px;
     margin: 0 auto;
+    background-color: rgba(236, 236, 236, 0.781);
 }
 
 /*Header*/
@@ -45,16 +47,127 @@ header img{
     display: inline-block;
     position: relative;
     left: 170px;
-    bottom: 120px;
+    bottom: 100px;
+    font-size: 0.95rem;
 }
 
 .goal-description p{
     margin-top: 10px;
     font-style: italic;
-    font-size: 1.12rem;
     line-height: 1.3;
 }
 
+/*Navigation*/
+nav ul{
+    list-style: none;
+    text-align: center;
+}
+
+nav ul > li {
+    display: inline-block;
+    padding: 10px;
+}
+
+nav ul > li > a {
+    display: inline-block;
+    padding: 10px;
+    color: rgb(2, 2, 2);
+}
+
+nav ul > li > a:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    transform: scale(1.2);
+    transition-property: transform;
+    transition-duration: 250ms;
+}
+
+
+
+/*need to squeezy photo size*/
+
+/*Main*/
+
+/*skills section*/
+
+#skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 300px;
+}
+
+/*for all sections of the main*/
+.section-container{
+    width: 90%;
+    margin: 0 auto;
+    background-color: rgba(221, 221, 221, 0.719);
+    padding-left: 10px;
+    height: 80%;
+    box-shadow: 10px 10px 20px 2px gray;
+    border: 1px solid rgba(128, 128, 128, 0.342);
+}
+
+
+.skills-list{
+    list-style: none;
+}
+
+.skills{
+    margin-top: 10px;
+    display: flex;
+    column-gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+li.skills p{
+    text-align: right;
+    width: 80px;
+    height: 22px;
+    font-size: 0.85rem;
+}
+
+.skills .skills-container{
+    height: 22px;
+    font-size: 0.85rem;
+    width: 50%;
+    background-color: rgb(216, 209, 209);
+    color: white;
+    border-radius: 10px;
+}
+
+li.skills .bar{
+    text-align: right;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.html{
+    width: 70%;
+    background-color: green;
+}
+
+.css {
+    width: 60%;
+    background-color: rgb(42, 127, 238);
+}
+
+.js {
+    width: 35%;
+    background-color: rgb(11, 88, 189);
+}
+
+.bash {
+    width: 30%;
+    background-color: rgb(11, 189, 130);
+}
+
+.git {
+    width: 40%;
+    background-color: rgb(82, 158, 133);
+}
 
 
 
