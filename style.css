@@ -32,6 +32,15 @@ html{
     transform: scale(1.2);
 } 
 
+a.link{
+    color: black;
+}
+
+a.link:hover{
+    color: rgb(66, 161, 238);
+    text-decoration: none;
+}
+
 /*Header*/
 
 header{
@@ -115,7 +124,7 @@ nav ul > li > a:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 300px;
+    /* height: 300px; */
 }
 
 /*for all sections of the main*/
@@ -123,11 +132,11 @@ nav ul > li > a:hover {
     width: 90%;
     margin: 0 auto;
     background-color: rgba(221, 221, 221, 0.719);
-    padding-left: 10px;
+    padding: 0 10px;
     height: 80%;
     box-shadow: 10px 10px 20px 2px gray;
     border: 1px solid rgba(128, 128, 128, 0.342);
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 .section-container h2{
@@ -137,6 +146,7 @@ nav ul > li > a:hover {
 
 .skills-list{
     list-style: none;
+    padding-bottom: 20px;
 }
 
 .skills{
@@ -198,11 +208,11 @@ li.skills .bar{
 
 ul.experience-list{
     margin-top: 10px;
+    margin-bottom: 20px;
     display: flex;
     flex-wrap: wrap;
     list-style: none;
-    margin-bottom: 20px;
-    gap: 5px 5px;
+    gap: 10px 10px;
     justify-content: center;
 }
 
@@ -257,6 +267,41 @@ ul.duty-list{
     color: black;
 }
 
+/*Portfolio*/
+
+ul.portfolio-list {
+    list-style: none;
+    margin: 10px 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    justify-content: center;
+}
+
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    align-items: center;
+}
+.wrapper .img{
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.wrapper img{
+    width: 280px;
+    height: 160px;
+}
+
+.wrapper img:hover {
+    transform: scale(1.05);
+    transition-property: transform;
+    transition-duration: 350ms;
+    transition-timing-function: ease-out;
+}
 
 
 
