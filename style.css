@@ -39,7 +39,7 @@ html{
 
 .up-sign:hover{
     transform: scale(1.2);
-} 
+}
 
 a.link{
     color: black;
@@ -407,7 +407,7 @@ footer{
     height: 45px;
     font-size: 0.9rem;
     column-gap: 10px;
-    justify-items: center;  
+    justify-items: center;
     align-items: center;
 }
 
@@ -447,7 +447,7 @@ footer{
 }
 
 .rs-school img {
-    width: 30px;
+    width: 70px;
     height: 30px;
     background-color: white;
     border-radius: 5px;
