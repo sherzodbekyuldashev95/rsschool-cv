@@ -19,6 +19,15 @@ html{
     position: relative;
     top: 500px;
 }
+
+@media (max-height: 942px) {
+    .fixedButton {
+        position: relative;
+        top: 300px;
+    }
+
+}
+
 .fixedButton img{
     width: 40px;
 }
@@ -103,6 +112,7 @@ nav ul > li > a {
 }
 
 nav ul > li > a:hover {
+    text-transform: uppercase;
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.685);
     color: white;
@@ -121,6 +131,7 @@ nav ul > li > a:hover {
 /*skills section*/
 
 #skills{
+    margin-top: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -146,7 +157,7 @@ nav ul > li > a:hover {
 
 .skills-list{
     list-style: none;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 .skills{
@@ -208,7 +219,7 @@ li.skills .bar{
 
 ul.experience-list{
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     display: flex;
     flex-wrap: wrap;
     list-style: none;
@@ -271,7 +282,7 @@ ul.duty-list{
 
 ul.portfolio-list {
     list-style: none;
-    margin: 10px 0 20px;
+    margin: 10px 0 40px;
     display: flex;
     flex-wrap: wrap;
     row-gap: 10px;
@@ -306,7 +317,7 @@ ul.portfolio-list {
 /*Education section*/
 
 ul.education-list{
-    margin: 10px 0 20px 20px;
+    margin: 10px 0 40px 20px;
     list-style: none;
     display: flex;
     flex-direction: column;
@@ -351,13 +362,29 @@ ul.courses-list li{
 }
 
 /*Code example*/
-pre{
-    background-color: black;
+
+.code{
+   margin: 15px 0 40px; 
 }
+
+pre{
+    margin: 0 auto;
+    width: 800px;
+    background-color: black;
+    height: 250px;
+}
+
 code{
     color: white;
 }
 
+.code pre code .blue{
+    color: rgb(67, 131, 233);
+}
+
+.code pre code .orange {
+    color: orangered;
+}
 
 /*Footer*/
 footer{
