@@ -387,6 +387,51 @@ code{
 }
 
 /*Footer*/
+
 footer{
     background-color: black;
+    padding: 10px 0 0 15px;
+    color: white;
+}
+
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0 0 50px;
+    height: 200px;
+}
+
+.footer > div{
+    display: flex;
+    height: 45px;
+    font-size: 0.9rem;
+    column-gap: 10px;
+    justify-items: center;  
+    align-items: center;
+}
+
+.footer div img{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.footer div p a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer div p a:hover {
+   color: rgb(66, 161, 238);;
+}
+
+footer div p.last-note{
+    border-top: 1px solid white;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 0.7rem;
+    padding: 10px;
 }
